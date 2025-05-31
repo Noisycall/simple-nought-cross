@@ -1,5 +1,5 @@
 [package]
-name = "simple-chess"
+name = "simple-cross-nought"
 version = "0.1.0"
 description = "A Tauri App"
 authors = ["you"]
